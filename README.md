@@ -1,6 +1,6 @@
 # GuessTheNumber
 
-This is a simple number guessing game where the user has to guess a random number between 1 and 100. The game also calculates the time it takes the user to find the correct answer. A sound effect is played when the user wins.
+This is a number guessing game where the user has to guess a random number between 1 and 100. The game also calculates the time it takes the user to find the correct answer. A sound effect is played when the user wins.
 
 
 ## Getting Started
