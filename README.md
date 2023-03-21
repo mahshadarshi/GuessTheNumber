@@ -23,4 +23,4 @@ python guess_game.py
 
 ## Credits
 
-This program was written by Mahshad Arshi for the final project of the "AI in Logistics" class at the University of Duisburg-Essen.
+This program has been written by Mahshad Arshi for the final project of the "AI in Logistics" class at the University of Duisburg-Essen.
