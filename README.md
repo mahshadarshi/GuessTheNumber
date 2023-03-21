@@ -15,11 +15,11 @@ python guess_game.py
 
 ## How to play the game
 
-- The program will generate a random number between 1 and 100.
-- The user has to guess the number by entering a number between 1 and 100.
-- If the user's guess is correct, the program will display the number of guesses made and the time taken to find the correct answer.
-- If the user's guess is incorrect, the program will tell the user whether the guess was too high or too low.
-- The user can quit the game at any time by typing 'quit'.
+1) The program will generate a random number between 1 and 100.
+2) The user has to guess the number by entering a number between 1 and 100.
+3) If the user's guess is correct, the program will display the number of guesses made and the time taken to find the correct answer.
+4) If the user's guess is incorrect, the program will tell the user whether the guess was too high or too low.
+5) The user can quit the game at any time by typing 'quit'.
 
 ## Credits
 
